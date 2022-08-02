@@ -1,5 +1,5 @@
 # Awesome Guidelines 
-本仓库将会包含一系列业界常用的 guidelines，另可能包含个人实践过程的拓展。
+本仓库将会包含一系列常用的 guidelines，另可能包含个人实践过程的拓展。
 
 ## Development Environment 开发环境
 ### Git Commit
@@ -22,3 +22,22 @@
     上层应用：
     - [standard-version](https://github.com/conventional-changelog/standard-version) 自动生成版本和 CHANGELOG
     - [semantic-release](https://github.com/semantic-release/semantic-release) 自动打包发布，貌似只支持 JS
+
+## Others 其他
+
+### Style Guide 风格指南
+- [中文文案排版指北-sparanoid](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [中文技术文档的写作规范-阮一峰](https://github.com/ruanyf/document-style-guide)
+- [少数派写作排版指南](https://sspai.com/post/37815)
+- [中文技术文档书写指东-Coco413](https://sspai.com/post/68349) 其中乌云风格可以作为特定类型文档的格式
+- [Microsoft Style Guide](https://docs.microsoft.com/style-guide/welcome/)
+- [Google development documentation style guide](https://developers.google.cn/style) 国内访问需要 `.cn`
+- [Apple Style Guide](https://support.apple.com/guide/applestyleguide)
+
+其他资料：
+- [余光中：怎样改进英式中文？- 论中文的常态与变态](https://open.leancloud.cn/improve-chinese/)
+
+## Reference
+- [GitHub-Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines)
+- [LeanCloud 开放资源](https://open.leancloud.cn/) 包含公司管理方面的一些指南
+- [掘金翻译计划](https://github.com/xitu/gold-miner) wiki 包含一些资源
