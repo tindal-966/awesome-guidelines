@@ -1,8 +1,8 @@
 # Awesome Guidelines 
-本仓库将会包含一系列常用的 guidelines，另可能包含个人实践过程的拓展。
+常用的 guidelines，另可能包含个人实践过程的拓展。
 
 ## Development Environment 开发环境
-### Git Commit
+### Git Commit Git 提交消息
 - [AngularJS Git Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits) & [非官方中文](https://zhuanlan.zhihu.com/p/86535275) & [自拓展](./extension/git-commit.md)
 - [Angular Commit Guidelines](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format)
     
@@ -14,7 +14,7 @@
 > 其他资料：
 > - [理解语义化 Commit](https://ssshooter.com/2020-09-30-commit-message/)
 > - [Git Commit Messages: Best Practices & Guidelines](https://initialcommit.com/blog/git-commit-messages-best-practices)
-### Versioning
+### Versioning 版本号管理
 - [Semantic Versioning](https://semver.org/) & [官方中文-语义化版本](https://semver.org/lang/zh-CN/)
     
 > 有关应用：
@@ -34,6 +34,10 @@
 > 其他资料：
 > - [余光中：怎样改进英式中文？-论中文的常态与变态](https://open.leancloud.cn/improve-chinese/)
 
+### Company Management 公司管理
+> 倒不是真的要去开公司，这样做了的公司大概率是个尊重员工的公司
+- [MegaEase 远程工作团队协作协议 v1.3](https://coolshell.cn/articles/20765.html) by MegaEase Inc.
+- [薪酬体系、期权激励计划、工作的评价和反馈机制、工作时间及休假](https://open.leancloud.cn/) by LeanCloud
+
 ## Reference
 - [GitHub-Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines)
-- [LeanCloud 开放资源](https://open.leancloud.cn/) 包含公司管理方面的一些 guidelines
